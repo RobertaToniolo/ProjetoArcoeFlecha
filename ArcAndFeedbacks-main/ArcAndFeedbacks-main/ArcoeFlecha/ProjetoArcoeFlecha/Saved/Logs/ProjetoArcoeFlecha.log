@@ -2992,3 +2992,432 @@ GameplayDebuggerCategoryReplicator
 [2022.05.02-19.26.18:364][852]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.02-19.26.18:364][852]LogContentValidation: Display: Validating Blueprint /Game/Luos8Elements/Blueprints/Ice/BP_4E_Ice_Def.BP_4E_Ice_Def
 [2022.05.02-19.26.18:364][852]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.05.02-19.36.05:747][275]Cmd: DELETE
+[2022.05.02-19.36.05:747][275]Cmd: ACTOR DELETE
+[2022.05.02-19.36.05:750][275]LogEditorActor: Deleted Actor: FeedBack_C
+[2022.05.02-19.36.05:801][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2022.05.02-19.36.05:811][275]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2022.05.02-19.36.32:514][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.05.02-19.36.32:544][733]LogSavePackage: Moving '../../../../ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMap_Auto6FA123F114A2670448FD3CBA3C59A5552.tmp' to '../../../../ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2022.05.02-19.36.32:547][733]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.077
+[2022.05.02-19.36.32:547][733]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2022.05.02-19.38.10:949][ 26]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Programas/ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.05.02-19.38.10:949][ 26]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Programas/ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/Developers/Petrus/Collections/' because it could not be accessed. Aborting watch request...
+[2022.05.02-19.38.10:949][ 26]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Programas/ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.05.02-19.38.29:927][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.02-19.38.33:152][952]LogSlate: Window 'Save Content' being destroyed
+[2022.05.02-19.38.33:234][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.05.02-19.38.33:258][952]LogSavePackage: Moving '../../../../ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMap9860100F4698EEAF16C82A857D0C4766.tmp' to '../../../../ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.05.02-19.38.33:266][952]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.075
+[2022.05.02-19.38.33:838][952]LogStaticMesh: Warning: Mesh SM_StairsWoodenA is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_StairsWoodenA.SM_StairsWoodenA.
+[2022.05.02-19.38.33:848][952]LogStaticMesh: Warning: Mesh SM_Corn is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Corn.SM_Corn.
+[2022.05.02-19.38.33:850][952]LogStaticMesh: Warning: Mesh SM_FenceSmallC_2m is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_FenceSmallC_2m.SM_FenceSmallC_2m.
+[2022.05.02-19.38.33:874][952]LogStaticMesh: Warning: Mesh SM_Cabbage is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Cabbage.SM_Cabbage.
+[2022.05.02-19.38.33:906][952]LogStaticMesh: Warning: Mesh SM_Crate is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Crate.SM_Crate.
+[2022.05.02-19.38.33:959][952]LogStaticMesh: Warning: Mesh SM_Carrot is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Carrot.SM_Carrot.
+[2022.05.02-19.38.33:962][952]LogStaticMesh: Warning: Mesh SM_Onion is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Onion.SM_Onion.
+[2022.05.02-19.38.33:963][952]LogStaticMesh: Warning: Mesh SM_Pumpkin is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Pumpkin.SM_Pumpkin.
+[2022.05.02-19.38.34:008][952]LogStaticMesh: Warning: Mesh SM_HaystackA is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/InventoryProps/SM_HaystackA.SM_HaystackA.
+[2022.05.02-19.38.34:009][952]LogStaticMesh: Warning: Mesh SM_HaystackB is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/InventoryProps/SM_HaystackB.SM_HaystackB.
+[2022.05.02-19.38.34:013][952]LogStaticMesh: Warning: Mesh SM_Logs is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/InventoryProps/SM_Logs.SM_Logs.
+[2022.05.02-19.38.34:054][952]LogStaticMesh: Warning: Mesh SM_BridgeOnColumns is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_BridgeOnColumns.SM_BridgeOnColumns.
+[2022.05.02-19.38.34:386][952]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap
+[2022.05.02-19.38.34:387][952]LightingResults: New page: Lighting Build
+[2022.05.02-19.38.34:387][952]LoadErrors: New page: Loading map: GreenwoodVillage_demoMap.umap
+[2022.05.02-19.38.34:395][952]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-19.38.34:396][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.38.34:396][952]MapCheck: New page: Map Check
+[2022.05.02-19.38.34:396][952]LightingResults: New page: Lighting Build
+[2022.05.02-19.38.34:449][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-19.38.34:467][952]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2022.05.02-19.38.34:471][952]LogAudio: Display: Audio Device (ID: 1) registered with world 'GreenwoodVillage_demoMap'.
+[2022.05.02-19.38.34:480][952]LogTexture: Display: Building textures: DeprecatedTextureD517F4A54C51D41C070B43ADB5005FCE (BGRA8, 128X128)
+[2022.05.02-19.38.34:485][952]LogTexture: Display: Building textures: DeprecatedTexture96DC3BF147FC5A570928EFBB84140D9B (BGRA8, 128X128)
+[2022.05.02-19.38.34:773][952]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.02-19.38.34:774][952]LogAIModule: Creating AISystem for world GreenwoodVillage_demoMap
+[2022.05.02-19.38.34:849][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.05.02-19.38.34:856][952]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.02-19.38.34:857][952]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.351ms to complete.
+[2022.05.02-19.38.34:857][952]LogFileHelpers: Loading map 'GreenwoodVillage_demoMap' took 0.470
+[2022.05.02-19.38.34:876][952]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.05.02-19.38.34:876][952]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.05.02-19.39.07:655][652]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.02-19.39.07:662][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-19.39.07:662][652]PIE: New page: PIE session: GreenwoodVillage_demoMap (May 2, 2022, 1:39:07 PM)
+[2022.05.02-19.39.07:662][652]LogPlayLevel: Creating play world package: /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.39.07:860][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197743s)
+[2022.05.02-19.39.07:861][652]LogAIModule: Creating AISystem for world GreenwoodVillage_demoMap
+[2022.05.02-19.39.07:862][652]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2022.05.02-19.39.07:862][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap to /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap (0.199938s)
+[2022.05.02-19.39.07:914][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.05.02-19.39.07:931][652]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.05.02-19.39.07:931][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-19.39.07:931][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-19.39.07:931][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-19.39.07:931][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-19.39.07:931][652]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-19.39.07:931][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-19.39.07:931][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-19.39.07:931][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-19.39.07:931][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-19.39.07:931][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-19.39.07:931][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-19.39.07:931][652]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-19.39.07:936][652]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-19.39.07:936][652]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-19.39.07:948][652]LogAudioMixer: Display: Using Audio Device Alto-falantes (DF-101)
+[2022.05.02-19.39.07:948][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-19.39.07:948][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-19.39.07:948][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-19.39.07:949][652]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-19.39.07:949][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-19.39.07:949][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.02-19.39.07:951][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-19.39.07:951][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-19.39.07:951][652]LogInit: FAudioDevice initialized.
+[2022.05.02-19.39.07:951][652]LogAudio: Display: Audio Device (ID: 32) registered with world 'GreenwoodVillage_demoMap'.
+[2022.05.02-19.39.08:004][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.39.08:004][652]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.02-19.39.08:084][652]LogWorld: Bringing World /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap up for play (max tick rate 0) at 2022.05.02-16.39.08
+[2022.05.02-19.39.08:093][652]LogWorld: Bringing up level for play took: 0.087628
+[2022.05.02-19.39.08:093][652]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.05.02-19.39.08:095][652]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.02-19.39.08:107][652]PIE: Server logged in
+[2022.05.02-19.39.08:110][652]PIE: Play in editor total start time 0.45 seconds.
+[2022.05.02-19.41.25:749][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.41.25:749][822]LogWorld: BeginTearingDown for /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.41.25:750][822]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.02-19.41.25:760][822]LogWorld: UWorld::CleanupWorld for GreenwoodVillage_demoMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-19.41.25:782][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.41.25:791][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-19.41.25:803][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.41.25:858][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-19.41.25:865][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.41.25:867][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.41.25:896][822]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2022.05.02-19.41.26:052][823]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.05.02-19.41.39:871][ 89]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.02-19.41.39:878][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-19.41.39:878][ 89]PIE: New page: PIE session: GreenwoodVillage_demoMap (May 2, 2022, 1:41:39 PM)
+[2022.05.02-19.41.39:879][ 89]LogPlayLevel: Creating play world package: /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.41.40:075][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196550s)
+[2022.05.02-19.41.40:076][ 89]LogAIModule: Creating AISystem for world GreenwoodVillage_demoMap
+[2022.05.02-19.41.40:076][ 89]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2022.05.02-19.41.40:077][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap to /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap (0.198354s)
+[2022.05.02-19.41.40:127][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.05.02-19.41.40:129][ 89]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.05.02-19.41.40:129][ 89]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-19.41.40:130][ 89]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-19.41.40:130][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-19.41.40:130][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-19.41.40:130][ 89]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-19.41.40:130][ 89]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-19.41.40:130][ 89]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-19.41.40:130][ 89]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-19.41.40:130][ 89]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-19.41.40:130][ 89]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-19.41.40:130][ 89]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-19.41.40:130][ 89]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-19.41.40:135][ 89]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-19.41.40:135][ 89]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-19.41.40:146][ 89]LogAudioMixer: Display: Using Audio Device Alto-falantes (DF-101)
+[2022.05.02-19.41.40:146][ 89]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-19.41.40:146][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-19.41.40:146][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-19.41.40:146][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-19.41.40:146][ 89]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-19.41.40:147][ 89]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.02-19.41.40:148][ 89]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-19.41.40:148][ 89]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-19.41.40:148][ 89]LogInit: FAudioDevice initialized.
+[2022.05.02-19.41.40:148][ 89]LogAudio: Display: Audio Device (ID: 33) registered with world 'GreenwoodVillage_demoMap'.
+[2022.05.02-19.41.40:193][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.41.40:194][ 89]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.02-19.41.40:268][ 89]LogWorld: Bringing World /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap up for play (max tick rate 0) at 2022.05.02-16.41.40
+[2022.05.02-19.41.40:276][ 89]LogWorld: Bringing up level for play took: 0.082446
+[2022.05.02-19.41.40:277][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.05.02-19.41.40:279][ 89]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.02-19.41.40:288][ 89]PIE: Server logged in
+[2022.05.02-19.41.40:291][ 89]PIE: Play in editor total start time 0.414 seconds.
+[2022.05.02-19.42.15:626][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.42.15:626][893]LogWorld: BeginTearingDown for /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.42.15:627][893]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.02-19.42.15:636][893]LogWorld: UWorld::CleanupWorld for GreenwoodVillage_demoMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-19.42.15:653][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.42.15:662][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-19.42.15:673][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.42.15:728][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.42.15:730][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.42.15:748][893]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2022.05.02-19.42.15:786][894]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.05.02-19.42.38:855][151]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.02-19.42.38:862][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-19.42.38:863][151]PIE: New page: PIE session: GreenwoodVillage_demoMap (May 2, 2022, 1:42:38 PM)
+[2022.05.02-19.42.38:863][151]LogPlayLevel: Creating play world package: /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.42.39:061][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198671s)
+[2022.05.02-19.42.39:062][151]LogAIModule: Creating AISystem for world GreenwoodVillage_demoMap
+[2022.05.02-19.42.39:063][151]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2022.05.02-19.42.39:063][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap to /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap (0.200759s)
+[2022.05.02-19.42.39:120][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.05.02-19.42.39:122][151]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.05.02-19.42.39:122][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-19.42.39:123][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-19.42.39:123][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-19.42.39:123][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-19.42.39:123][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-19.42.39:123][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-19.42.39:123][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-19.42.39:123][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-19.42.39:123][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-19.42.39:123][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-19.42.39:123][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-19.42.39:123][151]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-19.42.39:128][151]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-19.42.39:128][151]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-19.42.39:139][151]LogAudioMixer: Display: Using Audio Device Alto-falantes (DF-101)
+[2022.05.02-19.42.39:139][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-19.42.39:139][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-19.42.39:139][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-19.42.39:140][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-19.42.39:140][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-19.42.39:140][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.02-19.42.39:141][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-19.42.39:141][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-19.42.39:141][151]LogInit: FAudioDevice initialized.
+[2022.05.02-19.42.39:141][151]LogAudio: Display: Audio Device (ID: 34) registered with world 'GreenwoodVillage_demoMap'.
+[2022.05.02-19.42.39:178][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.42.39:178][151]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.02-19.42.39:255][151]LogWorld: Bringing World /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap up for play (max tick rate 0) at 2022.05.02-16.42.39
+[2022.05.02-19.42.39:263][151]LogWorld: Bringing up level for play took: 0.084394
+[2022.05.02-19.42.39:263][151]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.05.02-19.42.39:266][151]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.02-19.42.39:276][151]PIE: Server logged in
+[2022.05.02-19.42.39:279][151]PIE: Play in editor total start time 0.418 seconds.
+[2022.05.02-19.42.54:020][804]Set new viewmode: Unlit
+[2022.05.02-19.42.54:837][844]Set new viewmode: Unlit
+[2022.05.02-19.42.56:745][935]Set new viewmode: Unlit
+[2022.05.02-19.42.57:493][972]Set new viewmode: Wireframe
+[2022.05.02-19.42.59:326][ 62]Set new viewmode: Lit
+[2022.05.02-19.43.02:722][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.43.02:722][218]LogWorld: BeginTearingDown for /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.43.02:723][218]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.02-19.43.02:735][218]LogWorld: UWorld::CleanupWorld for GreenwoodVillage_demoMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-19.43.02:753][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.43.02:761][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-19.43.02:772][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.43.02:829][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.43.02:830][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.43.02:848][218]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2022.05.02-19.43.02:888][219]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.05.02-19.43.13:399][555]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.02-19.43.13:406][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-19.43.13:406][555]PIE: New page: PIE session: GreenwoodVillage_demoMap (May 2, 2022, 1:43:13 PM)
+[2022.05.02-19.43.13:406][555]LogPlayLevel: Creating play world package: /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.43.13:598][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.192354s)
+[2022.05.02-19.43.13:599][555]LogAIModule: Creating AISystem for world GreenwoodVillage_demoMap
+[2022.05.02-19.43.13:600][555]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2022.05.02-19.43.13:600][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap to /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap (0.194137s)
+[2022.05.02-19.43.13:649][555]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.05.02-19.43.13:652][555]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.05.02-19.43.13:652][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-19.43.13:652][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-19.43.13:652][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-19.43.13:652][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-19.43.13:652][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-19.43.13:652][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-19.43.13:652][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-19.43.13:652][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-19.43.13:653][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-19.43.13:653][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-19.43.13:653][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-19.43.13:653][555]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-19.43.13:657][555]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-19.43.13:657][555]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-19.43.13:667][555]LogAudioMixer: Display: Using Audio Device Alto-falantes (DF-101)
+[2022.05.02-19.43.13:667][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-19.43.13:667][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-19.43.13:667][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-19.43.13:668][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-19.43.13:668][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-19.43.13:668][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.02-19.43.13:669][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-19.43.13:669][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-19.43.13:669][555]LogInit: FAudioDevice initialized.
+[2022.05.02-19.43.13:669][555]LogAudio: Display: Audio Device (ID: 35) registered with world 'GreenwoodVillage_demoMap'.
+[2022.05.02-19.43.13:712][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.43.13:712][555]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.02-19.43.13:790][555]LogWorld: Bringing World /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap up for play (max tick rate 0) at 2022.05.02-16.43.13
+[2022.05.02-19.43.13:798][555]LogWorld: Bringing up level for play took: 0.085727
+[2022.05.02-19.43.13:799][555]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.05.02-19.43.13:801][555]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.02-19.43.13:810][555]PIE: Server logged in
+[2022.05.02-19.43.13:813][555]PIE: Play in editor total start time 0.408 seconds.
+[2022.05.02-19.44.19:422][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.44.19:422][623]LogWorld: BeginTearingDown for /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.44.19:423][623]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.02-19.44.19:433][623]LogWorld: UWorld::CleanupWorld for GreenwoodVillage_demoMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-19.44.19:456][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.44.19:464][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-19.44.19:476][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.44.19:537][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.44.19:538][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.44.19:557][623]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.05.02-19.44.19:600][624]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.05.02-19.44.29:857][812]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.02-19.44.29:863][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-19.44.29:864][812]PIE: New page: PIE session: GreenwoodVillage_demoMap (May 2, 2022, 1:44:29 PM)
+[2022.05.02-19.44.29:864][812]LogPlayLevel: Creating play world package: /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.44.30:056][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191680s)
+[2022.05.02-19.44.30:057][812]LogAIModule: Creating AISystem for world GreenwoodVillage_demoMap
+[2022.05.02-19.44.30:058][812]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2022.05.02-19.44.30:058][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap to /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap (0.193578s)
+[2022.05.02-19.44.30:107][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.05.02-19.44.30:110][812]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.05.02-19.44.30:110][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-19.44.30:110][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-19.44.30:110][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-19.44.30:110][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-19.44.30:110][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-19.44.30:110][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-19.44.30:110][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-19.44.30:110][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-19.44.30:110][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-19.44.30:110][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-19.44.30:110][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-19.44.30:110][812]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-19.44.30:115][812]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-19.44.30:115][812]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-19.44.30:125][812]LogAudioMixer: Display: Using Audio Device Alto-falantes (DF-101)
+[2022.05.02-19.44.30:126][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-19.44.30:126][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-19.44.30:126][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-19.44.30:126][812]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-19.44.30:126][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-19.44.30:126][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.02-19.44.30:128][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-19.44.30:128][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-19.44.30:128][812]LogInit: FAudioDevice initialized.
+[2022.05.02-19.44.30:128][812]LogAudio: Display: Audio Device (ID: 36) registered with world 'GreenwoodVillage_demoMap'.
+[2022.05.02-19.44.30:182][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.44.30:183][812]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.02-19.44.30:262][812]LogWorld: Bringing World /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap up for play (max tick rate 0) at 2022.05.02-16.44.30
+[2022.05.02-19.44.30:271][812]LogWorld: Bringing up level for play took: 0.088505
+[2022.05.02-19.44.30:272][812]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.05.02-19.44.30:274][812]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.02-19.44.30:283][812]PIE: Server logged in
+[2022.05.02-19.44.30:287][812]PIE: Play in editor total start time 0.424 seconds.
+[2022.05.02-19.45.38:533][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.45.38:533][951]LogWorld: BeginTearingDown for /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.45.38:534][951]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.02-19.45.38:544][951]LogWorld: UWorld::CleanupWorld for GreenwoodVillage_demoMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-19.45.38:562][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.45.38:575][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-19.45.38:587][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.45.38:642][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.45.38:644][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.45.38:663][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2022.05.02-19.45.38:700][952]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.05.02-19.45.49:326][257]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.02-19.45.49:333][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-19.45.49:333][257]PIE: New page: PIE session: GreenwoodVillage_demoMap (May 2, 2022, 1:45:49 PM)
+[2022.05.02-19.45.49:333][257]LogPlayLevel: Creating play world package: /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.45.49:531][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197632s)
+[2022.05.02-19.45.49:532][257]LogAIModule: Creating AISystem for world GreenwoodVillage_demoMap
+[2022.05.02-19.45.49:532][257]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2022.05.02-19.45.49:533][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap to /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap (0.199655s)
+[2022.05.02-19.45.49:581][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.05.02-19.45.49:585][257]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.05.02-19.45.49:585][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-19.45.49:585][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-19.45.49:585][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-19.45.49:585][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-19.45.49:585][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-19.45.49:585][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-19.45.49:585][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-19.45.49:585][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-19.45.49:586][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-19.45.49:586][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-19.45.49:586][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-19.45.49:586][257]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-19.45.49:590][257]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-19.45.49:590][257]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-19.45.49:601][257]LogAudioMixer: Display: Using Audio Device Alto-falantes (DF-101)
+[2022.05.02-19.45.49:601][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-19.45.49:601][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-19.45.49:601][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-19.45.49:602][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-19.45.49:602][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-19.45.49:602][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.02-19.45.49:603][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-19.45.49:603][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-19.45.49:603][257]LogInit: FAudioDevice initialized.
+[2022.05.02-19.45.49:603][257]LogAudio: Display: Audio Device (ID: 37) registered with world 'GreenwoodVillage_demoMap'.
+[2022.05.02-19.45.49:652][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.45.49:653][257]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.02-19.45.49:727][257]LogWorld: Bringing World /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap up for play (max tick rate 0) at 2022.05.02-16.45.49
+[2022.05.02-19.45.49:736][257]LogWorld: Bringing up level for play took: 0.082498
+[2022.05.02-19.45.49:736][257]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.05.02-19.45.49:738][257]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.02-19.45.49:747][257]PIE: Server logged in
+[2022.05.02-19.45.49:750][257]PIE: Play in editor total start time 0.419 seconds.
+[2022.05.02-19.47.14:125][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.47.14:125][605]LogWorld: BeginTearingDown for /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.47.14:126][605]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.02-19.47.14:132][605]LogWorld: UWorld::CleanupWorld for GreenwoodVillage_demoMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-19.47.14:155][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.47.14:172][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-19.47.14:190][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-19.47.14:268][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.47.14:270][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-19.47.14:311][605]LogUObjectHash: Compacting FUObjectHashTables data took  12.59ms
+[2022.05.02-19.47.14:375][606]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.05.02-19.52.29:189][778]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.02-19.52.29:196][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-19.52.29:196][778]PIE: New page: PIE session: GreenwoodVillage_demoMap (May 2, 2022, 1:52:29 PM)
+[2022.05.02-19.52.29:196][778]LogPlayLevel: Creating play world package: /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap
+[2022.05.02-19.52.29:388][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.192519s)
+[2022.05.02-19.52.29:390][778]LogAIModule: Creating AISystem for world GreenwoodVillage_demoMap
+[2022.05.02-19.52.29:390][778]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2022.05.02-19.52.29:391][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap to /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap (0.194810s)
+[2022.05.02-19.52.29:442][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.05.02-19.52.29:452][778]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.05.02-19.52.29:452][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-19.52.29:452][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-19.52.29:452][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-19.52.29:452][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-19.52.29:452][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-19.52.29:452][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-19.52.29:452][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-19.52.29:452][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-19.52.29:453][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-19.52.29:453][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-19.52.29:453][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-19.52.29:453][778]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-19.52.29:457][778]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-19.52.29:457][778]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-19.52.29:469][778]LogAudioMixer: Display: Using Audio Device Alto-falantes (DF-101)
+[2022.05.02-19.52.29:469][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-19.52.29:469][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-19.52.29:469][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-19.52.29:470][778]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-19.52.29:470][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-19.52.29:470][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.02-19.52.29:471][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-19.52.29:471][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-19.52.29:471][778]LogInit: FAudioDevice initialized.
+[2022.05.02-19.52.29:471][778]LogAudio: Display: Audio Device (ID: 38) registered with world 'GreenwoodVillage_demoMap'.
+[2022.05.02-19.52.29:518][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-19.52.29:518][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.02-19.52.29:597][778]LogWorld: Bringing World /Game/GreenwoodFantasyVillage/Maps/UEDPIE_0_GreenwoodVillage_demoMap.GreenwoodVillage_demoMap up for play (max tick rate 0) at 2022.05.02-16.52.29
+[2022.05.02-19.52.29:606][778]LogWorld: Bringing up level for play took: 0.086934
+[2022.05.02-19.52.29:606][778]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.05.02-19.52.29:608][778]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.02-19.52.29:618][778]PIE: Server logged in
+[2022.05.02-19.52.29:621][778]PIE: Play in editor total start time 0.426 seconds.
+[2022.05.02-19.54.57:727][473]LogProjectileMovement: Warning: flechas_C_2 is outside the world bounds!
+[2022.05.02-19.59.51:130][394]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.05.02-19.59.52:090][394]LogSavePackage: Moving '../../../../ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/GreenwoodVillage_demoMapBA0D92A54884D6517499E7A693FD272E.tmp' to '../../../../ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.umap'
+[2022.05.02-19.59.59:488][394]LogSavePackage: Moving '../../../../ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/GreenwoodVillage_demoMap_BuiltDaE38A615D4BFA02849A9B6EB098B6D753.tmp' to '../../../../ProjetoArcoeFlecha/ArcAndFeedbacks-main/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap_BuiltData.uasset'
+[2022.05.02-19.59.59:551][394]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.02-19.59.59:552][394]LogContentValidation: Display: Validating World /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap
+[2022.05.02-19.59.59:552][394]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap_BuiltData.GreenwoodVillage_demoMap_BuiltData
